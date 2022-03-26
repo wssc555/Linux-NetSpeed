@@ -7,3 +7,4 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 ./tcp.sh
 ```
+由于raw.githubusercontent.com访问较慢，先将tcp.sh里面的地址换成raw.sevencdn.com更换完内核之后，再换回raw.githubusercontent.com启用加速模块
