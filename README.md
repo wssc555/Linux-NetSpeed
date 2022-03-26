@@ -7,3 +7,4 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 ./tcp.sh
 ```
+2022/03/26 由于raw.githubusercontent.com访问慢，先将地址换为raw.sevencdn.com 安装完内核，再换回raw.githubusercontent.com启用加速
